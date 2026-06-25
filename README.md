@@ -69,5 +69,4 @@ An interactive investor-style dashboard built in React, presenting the full proj
 ## 👩‍💻 Author
 
 **Vaishnavi Pabba**  
-Graduate Student — Engineering Management, Northeastern University  
-EMGT 5220 · Engineering Project Management · December 2025
+
