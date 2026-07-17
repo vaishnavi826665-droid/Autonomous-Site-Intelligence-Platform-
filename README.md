@@ -37,7 +37,7 @@ An interactive investor-style dashboard built in React, presenting the full proj
 - **Resources** — Team utilization by phase, RACI accountability, and allocation charts
 - **Tech** — Full system architecture, data flow diagram, and technology stack
 
-🔗 **[View Investor Report on Netlify](https://app.netlify.com/projects/offsite-construction-investor-report/overview)**
+🔗 **[View Investor Report on Netlify][(https://app.netlify.com/projects/offsite-construction-investor-report/overview)**](https://offsite-construction-investor-report.netlify.app)
 
 ---
 
